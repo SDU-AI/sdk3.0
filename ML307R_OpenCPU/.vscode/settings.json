@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "cm_common.h": "c",
+        "cm_http.h": "c"
+    }
+}
